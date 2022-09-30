@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oyz9IYwYShzliCMhfaUqD6Zk4DRqDlvEwC8qJcLRWd3Lojgq5pN1gBQforUNWMUNcAJKETQoZGnF25H4Je/spg==",
+  "dgSpecHash": "ezjqQCwmOULveMmT/Kzp0C4DheBPwYhyI9eI98f7i7A1tiD1THxWANwPC2Oiei/oSg1mitNa2C5KCswDBYqCBg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj",
+  "projectFilePath": "C:\\Users\\marce\\source\\repos\\CalculatorUnitTest\\AdaCalculator\\AdaCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
